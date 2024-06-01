@@ -13,3 +13,4 @@ This project utilizes FastAPI, requests, and BeautifulSoup to create an API that
 1. Send a GET request to the root endpoint ("/") to retrieve real-time weather data.
 2. The API will scrape weather data from weather.com and return it in the response.
 3. The response includes the location, temperature, and unit of measurement.
+
