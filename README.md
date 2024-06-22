@@ -1,6 +1,8 @@
 # Weather Scraper API
 
 
+
+
 ## Introduction
 This project utilizes FastAPI, requests, and BeautifulSoup to create an API that fetches real-time weather data from weather.com. It provides a simple and efficient way to retrieve weather information based on location.
 
